@@ -1,0 +1,17 @@
+product_id,product_name,product_price,test
+1,iPhone,"499 USD",Array
+2,"iPhone 3G","599 USD"
+3,"iPhone 3GS","599 USD"
+4,"iPhone 4","599 USD"
+5,"iPhone 4s","649 USD"
+6,"iPhone 5","649 USD"
+7,"iPhone 5s","649 USD"
+8,"iPhone 6","649 USD"
+9,"iPhone 6 Plus","749 USD"
+10,"iPhone 6s","649 USD"
+11,"iPhone 6s Plus","749 USD"
+12,"iPhone 7","649 USD"
+13,"iPhone 7 Plus","769 USD"
+14,"iPhone 8","699 USD"
+15,"iPhone 8 Plus","799 USD"
+16,"iPhone X","999 USD"

@@ -1,0 +1,8 @@
+{
+"app_icon": "res/js/set/core/app-icon.js",
+"app_element": "res/js/set/core/app-element.js",
+"app_desktop": "res/js/set/core/app-desktop.js",
+"app_mobile": "res/js/set/core/app-mobile.js",
+"app_dom_data": "res/js/set/subset/dom-data/app-dom-data.js",
+"app_ajax": "res/js/set/subset/ajax/app-ajax.js"	
+}

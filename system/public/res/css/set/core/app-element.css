@@ -1,0 +1,182 @@
+
+/* app_body */
+html, body {
+position: relative;
+margin: 0vw;
+padding: 0vw;
+width: 100%;
+height: 100%;
+background-color: rgba(var(--app-bg-gray-highlight),1);
+font-family: "Montserrat",sans-serif;
+background-attachment: fixed;
+overflow-y: var(--app-overflow);
+}
+/* end app_body */
+
+
+/* app_fonts */
+
+@font-face {
+font-family: "app-sans-big-thin";
+font-style: normal;
+font-weight: 200;
+src: url("../../../font/app-sans-big-thin.ttf");
+}
+
+@font-face {
+font-family: "app-sans-small-light";
+font-style: normal;
+font-weight: 300;
+src: url("../../../font/app-sans-small-light.ttf");
+}
+
+@font-face {
+font-family: "app-sans-small-regular";
+font-style: normal;
+font-weight: 400;
+src: url("../../../font/app-sans-small-regular.ttf");
+}
+
+@font-face {
+font-family: "app-sans-small-medium";
+font-style: normal;
+font-weight: 500;
+src: url("../../../font/app-sans-small-medium.ttf");
+}
+
+@font-face {
+font-family: "app-sans-small-bold";
+font-style: normal;
+font-weight: 700;
+src: url("../../../font/app-sans-small-bold.ttf");
+}
+
+/* end app_fonts */
+
+
+/* app_scrollbar */
+::-webkit-scrollbar {
+width: 0.5vw;
+background-color: rgba(var(--app-primary-midtone),1);
+}
+
+::-webkit-scrollbar-thumb {
+cursor: pointer;
+z-index: 2;
+background-color: rgba(var(--app-primary-highlight),1);
+border-radius: 15vw;
+transition: 0.3s;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: rgba(var(--app-primary-highlight),1);
+}
+/* end app_scrollbar */
+
+
+
+/* app_selection
+::selection {
+background-color: rgba(var(--app-primary-highlight),1);
+color: white;  
+}
+
+::-webkit-selection {
+background-color: rgba(var(--app-primary-highlight),1);
+color: white;   
+}
+
+::-moz-selection {
+background-color: rgba(var(--app-primary-highlight),1);
+color: white;    
+}
+
+::-o-selection {
+background-color: rgba(var(--app-primary-highlight),1);
+color: white;      
+}
+
+::ms-selection {
+background-color: rgba(var(--app-primary-highlight),1);
+color: white;   
+}
+ end app_selection */
+
+
+/* app_reset */
+html, body, div, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video, input {
+display: block;
+margin: 0vw;
+padding: 0vw;	
+border: none;
+}
+
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus { 
+-webkit-text-fill-color: white;		
+-webkit-background-clip: text;
+caret-color: white;
+}
+
+a {
+display: block;
+text-decoration: none;
+margin: 0vw;
+padding: 0vw;	
+}
+
+
+main {
+margin: 0vw;
+padding: 0vw;
+width: 100%;
+height: 100%;	
+}
+
+button {
+display: block;
+margin: 0vw;
+padding: 0vw;
+background: none;
+border: none;	
+outline: none;
+}
+
+
+img {
+display: block;
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-user-drag: none;
+user-drag: none;
+-webkit-touch-callout: none;
+}
+
+
+table {
+border-collapse: collapse;
+border-spacing: 0vw;	
+}
+/* end app_reset */

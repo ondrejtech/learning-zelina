@@ -1,0 +1,53 @@
+
+:root {
+
+--app-text-black-dark: 74,74,74;
+--app-text-black-light: 118,129,128;
+
+--app-button-blue-midtone: 0,112,186;
+--app-button-blue-midtone-hover: 0,94,166;
+
+--app-button-gray-light: 225,231,235;
+--app-button-gray-light-hover: 210,219,225;
+
+--app-bg-gray-highlight: 245,247,250;
+
+--app-table-border-gray-light: ;
+--app-table-header-gray-midtone: ;
+--app-table-body-gray-light: ;
+
+
+
+/*
+
+color
+dark, midtone, light
+text, button, table,
+
+--app-color-primary
+--app-color-secondary
+--app-color-text
+--app-color-button
+--app-color-table
+--app-color-bg
+
+--app-typography-primary-font
+--app-typography-secondary-font
+
+--app-text-font-size-small
+--app-text-font-size-normal
+--app-text-font-size-medium
+--app-text-font-size-large
+--app-text-font-size-huge
+
+
+
+font
+small, normal, medium, large, huge
+
+
+
+*/
+
+
+}

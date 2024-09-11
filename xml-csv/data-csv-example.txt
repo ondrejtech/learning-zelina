@@ -1,0 +1,10 @@
+product_id, product_name, product_price
+1,iPhone,499 USD
+
+"product_id", "product_name", "product_price"
+"1","iPhone","499 USD"
+
+
+
+
+

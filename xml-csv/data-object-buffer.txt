@@ -1,0 +1,38 @@
+xml_csv_converter = {
+
+"table_of_content": {
+"a": "general converter",
+"a": "suited converter"
+},
+
+"case": {
+"a": "remove text content from html/xml tag",
+"a": "explode html/xml tag into array"
+}
+
+"code_structure": {
+"a": "require_once('simple-html-dom.php')",
+"a": "file_get_html(input);"
+"a": "$csv_header = array('...');",
+"a": `foreach($data_xml->find('x') as $item){	
+array_push($data_csv,array($item->children(x)->innertext, ...);
+}`,
+"a": "fopen(output, 'w');",
+"a": `foreach($data_csv as $item) {
+fputcsv($file_csv, $item);
+}`,
+"a": "fclose(file_csv)",
+"a": "____app_data_xml____parser();",
+"a": "____app_data_csv____inserter();"
+},	
+
+"code_description": {
+"a": "included library - php simple html dom parser",
+"a": "defined two files = ['xml input', 'csv output']",
+"a": "defined two buffer variables = ['data_xml', 'data_csv']",
+"a": "pre-pushed csv header",
+"a": "loop through data_xml && push xml content into data_csv",
+"a": "open file_csv && loop through data_csv && put data_csv content into file_csv"
+}
+
+};

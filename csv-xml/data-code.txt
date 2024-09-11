@@ -1,0 +1,6 @@
+// 1
+fputcsv($file_csv, $item);
+
+// 2
+
+

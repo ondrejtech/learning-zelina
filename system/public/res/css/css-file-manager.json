@@ -1,0 +1,8 @@
+{
+
+"app_root": "@import url(set/core/app-root.css?cache=x);",
+"app_element": "@import url(set/core/app-element.css?cache=x);",
+"app_desktop": "@import url(set/core/app-desktop.css?cache=x);",
+"app_mobile": "@import url(set/core/app-mobile.css?cache=x);"
+
+}

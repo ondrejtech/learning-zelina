@@ -1,0 +1,85 @@
+SuperCategoryCode,SuperCategoryName,ParentSuperCategoryCode
+52,IT,0
+53,Elektronika,0
+54,"Malé spotřebiče",0
+55,"Velké spotřebiče",0
+56,"Sport a volný čas",0
+57,"Hobby a zahrada",0
+58,"Péče o tělo",0
+2,"Spotřební elektronika",52
+3,Komponenty,52
+6,Periferie,52
+7,"Servery a zálohování",52
+8,"Síťové prvky",52
+9,Software,52
+10,"Kancelářská technika",52
+11,"PC a Notebooky",52
+16,"Pokladní systémy",52
+18,"Mobilní telefony a tablety",52
+121,"Multifunkce a tiskárny",52
+1,"Foto a video",53
+17,"Herní svět a příslušenství",53
+25,"Chytrá elektronika",53
+59,Vychytávky,53
+60,"Televize, přehrávače a TV signál",53
+61,"Ostatní Elektronika",53
+62,"Mobilní telefony a tablety",53
+63,"Notebooky a Ultrabooky",53
+120,Audio,53
+64,Vaření,54
+65,"Kávovary a Espresso",54
+66,"Příprava nápojů",54
+67,"Mixéry a šlehače",54
+68,"Elektrické hrnce",54
+69,"Odšťavňovače a Lisy",54
+70,"Čističky a Zvlhčovače",54
+71,"Ventilátory a Klimatizace",54
+72,"Žehličky a Šicí stroje",54
+73,Vysavače,54
+74,Úklid,54
+75,Lednice,55
+76,Mrazáky,55
+77,Pračky,55
+78,Sušičky,55
+79,Trouby,55
+80,"Mikrovlnné trouby",55
+81,"Varné desky",55
+82,Sporáky,55
+83,Digestoře,55
+84,Vinotéky,55
+85,"Gastro spotřebiče",55
+117,"Myčky nádobí",55
+87,Cyklistika,56
+88,Elektromobilita,56
+89,Outdoor,56
+90,Sporttestery,56
+91,"Dětské hřiště",56
+92,Hračky,56
+93,"Zavazadla a Batohy",56
+94,Škola,56
+118,Oblečení,56
+119,Sport,56
+29,"Dům a zahrada",57
+95,Auto-Moto,57
+96,"Bazény, Viřivky a Sauny",57
+97,"Dílna a Stavba",57
+98,"Sekačky na trávu",57
+99,"Tepelná technika",57
+100,"Ruční nářadí",57
+101,"Svitidla a žárovky",57
+102,"Grily a Udírny",57
+103,"Zahradní nábytek",57
+104,"Zahradní technika",57
+105,Zavlažování,57
+106,"Zabezpečovací technika",57
+107,"Interiérové doplňky",57
+122,Nábytek,57
+108,"Zubní kartáčky a sprchy",58
+109,"Epilátory a Depilátory",58
+110,"Holící strojky a Zastřihávače",58
+111,"Osobní váhy",58
+112,"Péče o dítě",58
+113,"Péče o tělo",58
+114,"Péče o vlasy",58
+115,"Tlakoměry a Teploměry",58
+116,"Zdravotnické pomůcky",58

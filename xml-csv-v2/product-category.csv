@@ -1,0 +1,598 @@
+category_code,category_name,attribute_code,attribute_name,is_primary,filter_operator
+2,"Digitální fotoaparáty",836,"Typ fotoaparátu",true,OR
+3,"Digitální kamery",849,"Typ kamery",true,OR
+6,"Paměťové karty",7,"Technologie paměťové karty",true,OR
+12,Dalekohledy,13,"Typ dalekohledu",true,OR
+14,Televize,15,"Úhlopříčka obrazovky",true,OR
+15,"Příjem digitálního vysílání",983,Produkt,true,OR
+16,"Příslušenství k televizím",892,"Typ  příslušenství",true,OR
+19,"Audio systémy",28,"Typ audio produktu",true,OR
+20,"Bezdrátové reproduktory",1003,Funkce,true,AND
+21,Autorádia,929,"Vlastnosti autorádia",true,AND
+22,Diktafony,,,,
+24,"Herní konzole",935,"Typ konzole",true,OR
+25,"Herní příslušenství",272,"Pro zařízení",true,AND
+26,Sluchátka,32,"Typ sluchátek",true,OR
+27,Mikrofony,35,"Typ mikrofonu",true,OR
+28,"Budíky a hodiny",968,"Zobrazení času",true,OR
+29,"Přenosné audio",906,"Typ audio zařízení",true,OR
+30,"Počítačové skříně",38,"Provedení skříně",true,OR
+31,Zdroje,907,"Formát zdroje",true,OR
+32,"Příslušenství ke skříním",888,"Typ příslušenství",true,OR
+33,"Základní desky",1396,"Pro procesory",true,OR
+34,"Paměti RAM",1368,"Využití paměti",true,OR
+35,Procesory,46,"Socket (patice)",true,OR
+36,Chladiče,886,"Typ chladiče",true,OR
+37,"Grafické karty",1620,"Šířka sběrnice",true,OR
+38,"Zvukové karty",887,"Typ zvukové karty",true,OR
+39,Modemy,75,"Typ připojení zařízení",true,OR
+40,"TV tunery, Střihové karty",351,"Druh zařízení",true,OR
+41,"Pevné disky",1374,"Použití disku",true,OR
+42,"Optické mechaniky",83,"Typ mechaniky",true,OR
+43,Klávesnice,897,"Typ klávesnice",true,OR
+45,Reproduktory,91,"Specifikace sestavy",true,OR
+46,"WEB kamery",94,"Rozlišení Web kamery",true,OR
+47,"IO karty/zařízení, huby a čtečky",209,"Druh IO zařízení",true,OR
+48,"Kabely a redukce (kromě LAN)",95,"Specifikace kabelu / redukce",true,OR
+50,Monitory,692,"Technologie panelu",true,OR
+51,"Příslušenství k monitorům",913,"Typ příslušenství",true,OR
+52,Projektory,101,"Svítivost (v ANSI lumenech)",true,OR
+53,"Příslušenství k projektorům",847,"Typ příslušenství",true,OR
+62,"Média Utrium",890,"Typ média",true,OR
+66,Tiskárny,1309,"Barva tisku",true,OR
+67,"Příslušenství k tiskárnám",128,"Typ příslušenství",true,OR
+68,Multifunkce,106,"Tisková technologie",true,OR
+69,"Příslušenství k multifunkcím",128,"Typ příslušenství",true,OR
+71,"Příslušenství ke kopírkám",128,"Typ příslušenství",true,OR
+74,"Spotřební materiál k periferiím",106,"Tisková technologie",true,OR
+75,"Tisková média",142,"Typ papíru",true,OR
+76,Skenery,134,"Automatický podavač dokumentů",true,OR
+77,"Příslušenství ke skenerům",128,"Typ příslušenství",true,OR
+78,"Rozšíření záruky k periferiím",136,"Typ servisní služby",true,OR
+79,Servery,145,"Provedení serveru",true,OR
+80,"RAM k serverům",62,"Kapacita paměti RAM",true,OR
+81,"Pevné disky k serverům",1072,"Typ disku",true,OR
+82,"Řadiče RAID / non-RAID",147,"Technologie serverového řadiče",true,OR
+83,"Rackové skříně",,,,
+84,"Příslušenství k Rackovým skříním",863,"Typ příslušenství",true,OR
+85,"Zálohovací systémy",241,"Specifikace zálohovacího systému",true,OR
+86,"Zálohovací mechaniky",232,"Typ rozhraní zálohovací mechaniky",true,OR
+87,"Ostatní příslušenství k serverům",861,"Typ příslušenství",true,OR
+88,"Rozšíření záruky k serverům",136,"Typ servisní služby",true,OR
+89,"Síťové karty",914,Provedení,true,OR
+90,Switche,296,Provedení,true,OR
+91,"Wi-Fi antény",201,"Typ antény",true,OR
+93,"Příslušenství k aktivním síťovým prvkům",205,"Typ příslušenství",true,OR
+94,"Strukturovaná kabeláž",294,"Typ komponenty",true,OR
+95,"OS - desktopové",199,"Pro koho je licence určena",true,OR
+96,"OS - serverové",199,"Pro koho je licence určena",true,OR
+97,Kancelářský,199,"Pro koho je licence určena",true,OR
+98,Antivirový,199,"Pro koho je licence určena",true,OR
+99,Grafický,199,"Pro koho je licence určena",true,OR
+100,Zálohovací,199,"Pro koho je licence určena",true,OR
+101,Databázový,199,"Pro koho je licence určena",true,OR
+102,Komunikační,199,"Pro koho je licence určena",true,OR
+103,"Správa, internet",199,"Pro koho je licence určena",true,OR
+104,Vývojářský,199,"Pro koho je licence určena",true,OR
+105,"Hry, zábava, výuka",198,Jazyk,true,AND
+107,"Mobilní telefony",652,Typ,true,AND
+111,"Stolní telefony",827,"Typ telefonu",true,OR
+112,"VoIP telefony a adaptéry",,,,
+113,Faxy,106,"Tisková technologie",true,OR
+115,"Notebooky a Ultrabooky",875,"Typ zařízení",true,AND
+116,"Příslušenství k notebookům a ultrabookům",879,"Typ příslušenství",true,OR
+120,"Ostatní originální přísl. k NTB",197,"Druh originálního příslušenství k Notebooku",true,OR
+121,"PC sestavy",177,"Provedení PC",true,AND
+122,"Příslušenství k PC",196,"Druh příslušenství k PC",true,OR
+123,"Elektronické čtečky",1002,"Úhlopříčka displeje",true,OR
+126,Navigace,668,Použití,true,OR
+127,"Rozšíření záruky k PC a NTB",136,"Typ servisní služby",true,OR
+128,"Záložní zdroje, EPS a příslušenství",169,Použití,true,OR
+129,"Přepěťové ochrany",1329,Funkce,true,OR
+130,"Servisní služby",136,"Typ servisní služby",true,OR
+131,"PDU, ATS, KVM switche",1058,"Typ zařízení",true,OR
+132,"Příslušenství k PDU, ATS, KVM switchům",1024,Příslušenství,true,OR
+133,Ostatní,198,Jazyk,true,AND
+135,Myši,895,"Rozhraní myši",true,OR
+136,"Sety klávesnice + myš",925,"Rozhraní setu",true,OR
+138,"Příslušenství pro pevné disky",889,"Typ příslušenství",true,OR
+140,"Příslušenství k řadičům",860,"Typ příslušenství",true,OR
+141,"Ostatní spotřební elektronika",1025,Produkt,true,OR
+144,"Síťové karty pro servery",237,"Počet kanálů",true,OR
+145,"Příslušenství k zálohovacím systémům",1121,"Typ příslušenství",true,OR
+146,"Příslušenství k zálohovacím mechanikám",1079,Typ,true,OR
+147,"Grafické tablety",911,"Úhlopříčka pracovní plochy",true,OR
+148,"CPU k serverům",58,"Řada procesoru",true,OR
+149,"Ostatní příslušenství k faxům",,,,
+151,"Příslušenství k hudebním přehrávačům",932,"Typ příslušenství",true,OR
+153,"Rozšíření záruky",136,"Typ servisní služby",true,OR
+155,"Thin Client",,,,
+158,"Příslušenství ke stolním telefonům",,,,
+160,Kalkulátory,893,"Typ kalkulačky",true,OR
+161,"Podložky pod myš",850,"Velikost podložky",true,OR
+162,"Servery - Intel Assembling",251,"Druh produktu",true,OR
+163,"Příslušenství k VoIP telefonům",252,"Typ příslušenství k VoIP",true,OR
+164,Skartovače,262,"Skartovaný materiál",true,AND
+167,"Řezačky papíru",267,"Druh řezačky",true,OR
+168,"Příslušenství k řezačkám papíru",269,"Typ příslušenství",true,OR
+170,"IP telefonie",274,"Typ zařízení IP telefonie",true,OR
+171,Konvertory,277,"Technologie konvertoru",true,OR
+172,"Tiskové servery",864,Rozhraní,true,AND
+173,Kamery,1073,Typ,true,OR
+174,RouterBOARD,283,"Typ produktu",true,OR
+175,"PoE, Powerline",,,,
+176,"Příslušenství ke kamerám",282,"Typ příslušenství ke kamerám",true,OR
+177,"Wi-Fi aktivní prvky",286,"Typ Wi-fi aktivního prvku",true,OR
+179,"USB Flash Disky",8,"Kapacita (v GB)",true,OR
+180,"Datové rozvaděče",291,"Typ datového rozvaděče",true,OR
+181,"Příslušenství k rozvaděčům",293,"Typ příslušenství",true,OR
+182,"ADSL, xDSL",300,Technologie,true,AND
+183,"Routery a firewally",868,"Typ zařízení",true,OR
+186,"Interaktivní tabule",857,"Typ zařízení",true,OR
+189,Tablety,676,"Typ displeje",true,OR
+190,"Ruční čtečky kódů",336,"Druh kódu",true,AND
+191,"Fixní čtečky kódů",339,Umístění,true,OR
+192,"Pokladní zásuvky",340,"Druh otevírání",true,OR
+193,"Zákaznické displeje",67,Display,true,OR
+194,"Čtečky/Zapisovačky karet a čipů",341,"Čtená média",true,AND
+195,"Pokladní tiskárny",807,"Typ tiskárny",true,OR
+196,"Datové terminály",185,WiFi,true,OR
+197,"Tiskárny čárových kódů a etiket",343,"Druh tiskárny čárových kódů",true,AND
+199,"Spotřební materiál a příslušenství",345,"Druh příslušenství k pokladním systémům",true,OR
+200,"Programovatelné klávesnice",,,,
+201,"Dotykové monitory",1617,"USB počet",true,OR
+203,"Hry pro herní konzole",936,"Pro zařízení",true,OR
+219,"Digitální fotorámečky",96,"Velikost úhlopříčky obrazovky (v palcích)",true,OR
+223,"Komerční panely",15,"Úhlopříčka obrazovky",true,OR
+224,"Světelné zdroje",641,"Typ světelného zdroje",true,OR
+230,"Wi-Fi příslušenství",589,Druh,true,OR
+241,"Hotelové televize",15,"Úhlopříčka obrazovky",true,OR
+242,"3D tiskárny",955,Produkt,true,OR
+243,"Spotřební materiál k 3D tiskárnám",622,"Typ materiálu",true,OR
+244,"Děrovačky a sešívačky",818,"Typ zařízení",true,OR
+245,"Příslušenství k děrovačkám  a sešívačkám",,,,
+246,Laminátory,627,"Typ laminátoru",true,OR
+247,"Laminovací fólie a kapsy",996,Produkt,true,OR
+248,"Plánovací tabule a nástěnky",821,"Typ tabule",true,OR
+249,"Optická kabeláž",633,"Typ vlákna",true,OR
+252,"SFP Moduly",634,"Technologie SFP Modulu",true,OR
+253,"Elektronika pro zdraví",813,"Typ elektroniky",true,OR
+254,"Elektronika pro domácnost",814,"Typ elektroniky",true,OR
+255,"Výrobky pro hraní a zábavu",1000,Produkt,true,OR
+256,Multikoptéry,980,Produkt,true,OR
+258,Kamery,,,,
+259,Příslušenství,,,,
+260,Pokladny,694,Typ,true,OR
+262,"Příslušenství k Mobilům a Tabletům",663,Zařízení,true,AND
+263,"Příslušenství k Navigacím",665,"Druh příslušenství",true,OR
+264,"Nositelná elektronika",669,Zařízení,true,OR
+267,Multikoptéry,,,,
+268,"Selfie tyče a stabilizátory",,,,
+270,Cyklonavigace,,,,
+271,Wattmetry,,,,
+272,Vysílačky,916,"Dosah vysílačky",true,OR
+273,"Příslušenství k výrobkům pro sport",921,"Typ příslušenství",true,OR
+274,"Kompasy a buzoly",1023,Produkt,true,OR
+275,Cyklocomputery,,,,
+276,Komunikace,752,"Typ zařízení",true,OR
+277,"Meteostanice a teploměry",716,Napájení,true,OR
+278,"Elektrické zubní kartáčky",1022,Produkt,true,OR
+280,Pračky,777,Produkty,true,OR
+281,"Sušičky prádla",778,Produkty,true,OR
+282,Ledničky,779,Produkty,true,OR
+283,Mrazničky,781,Produkty,true,OR
+284,Vinotéky,782,Produkty,true,OR
+285,"Myčky nádobí",783,Produkty,true,OR
+286,Sporáky,785,Produkty,true,OR
+287,"Vestavné trouby",787,Produkty,true,OR
+288,"Varné desky",788,Produkty,true,OR
+289,Digestoře,789,Produkty,true,OR
+290,"Mikrovlné trouby",790,Produkty,true,OR
+291,"Gastro zařízení",791,Produkty,true,OR
+294,Dílna,760,Produkty,true,OR
+295,Zahrada,761,Produkty,true,OR
+296,Kuchyně,762,Produkty,true,OR
+297,Koupelna,763,Produkty,true,OR
+298,Topení,792,Produkty,true,OR
+299,"Doplňky pro domácnost",764,Produkty,true,OR
+301,Zabezpečení,765,Produkty,true,OR
+302,"Světla a svítilny",766,Produkty,true,OR
+304,"Grilování a party",768,"Druh spotřebiče",true,OR
+305,"Remosky a elektrické hrnce",769,"Druh spotřebiče",true,OR
+306,"Příprava nápojů",770,"Druh spotřebiče",true,OR
+307,"Péče o dítě",771,Produkty,true,OR
+309,"Péče o tělo",772,Produkty,true,OR
+310,"Péče o prádlo",773,Produkty,true,OR
+311,Úklid,774,Produkty,true,OR
+312,Zdraví,775,Produkty,true,OR
+313,"Klimatizace a ventilátory",776,Produkty,true,OR
+315,Identifikace,817,"Typ identifikace",true,OR
+316,Ergonomie,835,"Typ ergonomie",true,OR
+317,"Jízdní kola a koloběžky",999,Produkt,true,OR
+318,Elektromobilita,1099,Produkt,true,OR
+320,Garáž,970,Produkt,true,OR
+375,"Virtuální realita",803,"Příslušenství VR",true,OR
+376,"PC hry",804,Žánr,true,OR
+378,"TTR pásky",810,"Druh TTR pásky",true,OR
+379,"Nálepky a RFID",811,"Druh nálepek",true,OR
+380,"Počítačky mincí/bankovek",812,Produkt,true,OR
+381,"Příslušenství k fotoaparátům",843,"Typ příslušenství",true,OR
+382,"Video přehrávače a rekordéry",844,"Typ video zařízení",true,OR
+383,Média,877,"Typ média",true,OR
+384,All-in-One,179,"Druh optické mechaniky",true,OR
+386,Hračky,952,"Druh hračky",true,OR
+387,"Škola a volný čas",953,Druh,true,OR
+388,"Servisní díly k NTB a UB",972,Druh,true,OR
+390,"Péče o řasy",974,Produkt,true,OR
+391,"Péče o rty",975,Produkt,true,OR
+392,"Péče o pleť",976,Produkt,true,OR
+393,"Péče o ruce",977,Produkt,true,OR
+394,"Péče o vlasy",978,Produkt,true,OR
+395,Parfémy,979,Produkt,true,OR
+397,Líčení,989,Produkt,true,OR
+398,"Úprava vlasů",988,Produkt,true,OR
+399,"Pánské holení",990,Produkt,true,OR
+400,"Dámské holení a epilace",991,Produkt,true,OR
+401,"První pomoc",992,Produkt,true,OR
+402,"Péče o zuby",993,Produkt,true,OR
+403,"Dárkové sady a balíčky",994,Produkt,true,OR
+404,"Péče o tělo",995,Produkt,true,OR
+405,"Tašky pro notebooky a ultrabooky",823,Barva,true,OR
+406,Vysavače,1018,Produkt,true,OR
+407,"Robotické vysavače",1020,Produkt,true,OR
+408,Autožárovky,1036,Produkt,true,OR
+409,"Chytré osvětlení",1057,Produkt,true,OR
+410,"Bytový textil",1090,Produkt,true,OR
+411,Alkohotestery,1146,"Typ zařízení",true,OR
+412,"Nabíječky autobaterií",1145,"Typ zařízení",true,OR
+413,"Startovací kabely",,,,
+414,"Chladničky do auta",,,,
+415,"Doplňky do auta",,,,
+416,"Smart doplňky do auta",,,,
+417,Pneumatiky,,,,
+418,"Zimní výbava",,,,
+419,Interiér,,,,
+420,"Střešní boxy a nosiče",,,,
+422,Autokosmetika,,,,
+423,"Vysokotlaké čističe",1152,Produkt,true,OR
+424,"Čerpadla a vodárny",1150,"Typ čerpadla",true,OR
+425,"Drtiče a štěpkovače",,,,
+426,"Řetězové pily",1153,"Typ pohonu",true,OR
+427,"Kultivátory a provzdušňovače",1155,"Typ stroje",true,OR
+428,"Zahradní vysavače a fukary",,,,
+429,"Nůžky na trávu a živý plot",1151,"Typ nůžek",true,OR
+430,"Příslušenství k zahradnímu nářadí",,,,
+431,Štípače,,,,
+432,"Ostatní zahradní technika",1154,"Typ nářadí",true,OR
+433,Vrtačky,1141,"Typ vrtačky",true,OR
+434,Brusky,1140,"Typ brusky",true,OR
+435,Frézy,1148,"Typ frézky",true,OR
+436,Hoblíky,,,,
+437,Pily,1122,"Typ pily",true,OR
+438,"Elektrické šroubováky",,,,
+439,"Kompresory a Svářečky",1125,"Typ zařízení",true,OR
+440,"Akuvrtačky a Šroubováky",1124,"Typ aku nářadí",true,OR
+441,"Horkovzdušné pistole",,,,
+442,"Vrtací kladiva",1149,"Typ kladiva",true,OR
+443,"Sety nářadí",1143,"Obsah sady",true,OR
+444,"Ostatní elektrické nářadí",1130,"Typ nářadí",true,OR
+445,"Příslušenství k el. nářadí",1131,"Typ příslušenství k elektronářadí",true,OR
+446,"Ruční nářadí",1123,"Typ nářadí",true,OR
+447,"Dílenské vybavení",1133,"Typ dílenského vybavení",true,OR
+448,"Stavební stroje",1134,"Typ stavebního stroje",true,OR
+449,"Plynové grily",,,,
+450,"Elektrické grily",1137,"Typ grilu",true,OR
+451,"Grily na uhlí a dřevo",,,,
+452,"Přenosné grily",,,,
+453,"Jednorázové grily",,,,
+454,Udírny,,,,
+455,"Příslušenství ke grilům a udírnám",1127,"Typ příslušenství",true,OR
+456,"Bazény s konstrukcí",,,,
+457,"Nafukovací bazény",,,,
+458,Vířivky,,,,
+459,"Příslušenství k bazénům a vířivkám",,,,
+460,"Solární sprchy",,,,
+461,Filtrace,,,,
+462,Infrasauny,,,,
+463,"Příslušenství pro sauny",,,,
+464,"Nafukovací lehátka a matrace",,,,
+465,"Benzínové rotační sekačky",,,,
+466,"Elektrické rotační sekačky",,,,
+467,"Akumulátorové rotační sekačky",,,,
+468,"Robotické sekačky",,,,
+469,"Vřetenové sekačky",,,,
+470,"Rotační sekačky",,,,
+471,"Bubnové sekačky",,,,
+472,"Zahradní traktory",,,,
+473,"Příslušenství pro sekačky",,,,
+474,"Křovinořezy a Vyžínače",,,,
+475,"Příslušenství pro Křovinořezy a Vyžínače",,,,
+476,"Doplňky pro mazlíčky",,,,
+477,Věšáky,,,,
+478,"Ostatní interiérové doplňky",,,,
+479,Fotorámečky,,,,
+480,"Elektrické radiátory",,,,
+481,"Průtokové ohřívače",,,,
+482,Bojlery,,,,
+483,"Plynové kamna",,,,
+484,"Elektrická topidla",1138,"Typ topení",true,OR
+485,Detektory,1135,"Typ detekce",true,AND
+486,Zámky,,,,
+487,"Trezory a Bezpečnostní schránky",,,,
+488,"Domovní alarmy",,,,
+489,Fotopasti,,,,
+490,"Ostatní Bezpečnostní technika",,,,
+491,"Sety zahradního nábytku",,,,
+492,Stoly,,,,
+493,"Křesla a Židle",,,,
+494,Lehátka,,,,
+495,Houpačky,,,,
+496,"Párty stany",,,,
+497,"Podstavné digestoře",,,,
+498,"Výsuvné digestoře",,,,
+499,"Komínové digestoře",,,,
+500,"Ostrůvkové digestoře",,,,
+501,"Vestavné digestoře",,,,
+502,"Příslušenství pro digestoře",,,,
+503,"Chladící skříně",,,,
+504,"Chladící vitríny",,,,
+505,"Truhlicové mrazničky",,,,
+506,"Výčepní zařízení",,,,
+507,"Ostatní Gastro spotřebiče",,,,
+508,"Kombinované lednice",,,,
+509,"Lednice bez mrazáku",,,,
+510,"Americké lednice",,,,
+511,"Jednodvéřové lednice",,,,
+512,"Lednice na nápoje",,,,
+513,"Retro lednice",,,,
+514,"Malé lednice",,,,
+515,"Vestavné lednice",,,,
+516,Autochladničky,,,,
+517,"Příslušenství k lednicím",,,,
+518,"Volně stojící mikrovlnné trouby",,,,
+519,"Vestavné mikrovlnné trouby",,,,
+520,"Příslušenství k mikrovlnným troubám",,,,
+521,"Truhlicové mrazáky",,,,
+522,"Šuplíkové mrazáky",,,,
+523,"Vestavné mrazáky",,,,
+524,"Příslušenství k mrazákům",,,,
+525,"Volně stojící myčky",,,,
+526,"Vestavné myčky",,,,
+527,"Stolní myčky",,,,
+528,"Příslušenství k myčkám",,,,
+529,"Pračky s předním plněním",,,,
+530,"Pračky s horním plněním",,,,
+531,"Pračky se sušičkou",,,,
+532,"Parní pračky",,,,
+533,"Vestavné pračky",,,,
+534,"Set Pračka a Sušička",,,,
+535,Minipračky,,,,
+536,"Příslušenství k pračkám",,,,
+537,"Elektrické sporáky",,,,
+538,"Indukční sporáky",,,,
+539,"Plynové sporáky",,,,
+540,"Kombinované sporáky",,,,
+541,"Sklokeramické sporáky",,,,
+542,"Příslušenství ke sporákům",,,,
+543,"Kondenzační sušičky",,,,
+544,"Sušičky s tepelným čerpadlem",,,,
+545,"Vestavné sušičky",,,,
+546,"Příslušenství k sušičkám",,,,
+547,"Indukční varné desky",,,,
+548,"Sklokeramické varné desky",,,,
+549,"Plynové desky",,,,
+550,"Elektrické desky",,,,
+551,"Kombinované desky",,,,
+552,Vařiče,,,,
+553,"Příslušenství k varným deskám",,,,
+554,"Horkovzdušné vestavné trouby",,,,
+555,"Multifunkční vestavné trouby",,,,
+556,"Příslušenství k troubám",,,,
+557,"Volně stojící vinotéky",,,,
+558,"Vestavné vinotéky",,,,
+559,"Příslušenství k vinotékám",,,,
+560,"Čističky vzduchu",,,,
+561,Odvlhčovače,,,,
+562,Zvlhčovače,,,,
+563,"Aroma difuzéry",,,,
+564,Rýžovary,,,,
+565,"Multifunkční hrnce",,,,
+566,"Parní hrnce",,,,
+567,"Elektrické pánve",,,,
+568,Remosky,,,,
+569,"Zavařovací hrnce",,,,
+570,Kávovary,,,,
+571,Espressa,,,,
+572,"Mlýnky na kávu",,,,
+573,"Napěnovače mléka",,,,
+574,Smoothie,,,,
+575,"Tyčové mixéry",,,,
+576,"Stolní mixéry",,,,
+577,"Ruční šlehače",,,,
+578,"Sekáčky potravin",,,,
+579,"Šnekové odšťavňovače",,,,
+580,"Odstředivé odšťavňovače",,,,
+581,"Odšťavňovací hrnce",,,,
+582,Citrusovače,,,,
+583,"Rychlovarné konvice",,,,
+584,"Výrobníky sody",,,,
+585,"Výrobníky ledu",,,,
+586,Termosky,,,,
+587,"Odstrňovače žmolků",,,,
+588,"Sušáky na prádlo",,,,
+589,Mopy,,,,
+590,"Parní čističe",,,,
+591,"Odpadkové koše",,,,
+592,Fritézy,,,,
+593,"Sušičky ovoce",,,,
+594,"Kuchyňské váhy",,,,
+595,"Mlýnky a kráječe",,,,
+596,"Domácí pekárny",,,,
+597,"Topinkovače a sendvičovače",,,,
+598,"Vakuové baličky",,,,
+599,"Kuchyňské roboty",,,,
+600,"Vychytávky do kuchyně",,,,
+601,Klimatizace,,,,
+602,"Stolní ventilátory",,,,
+603,"Stojanové ventilátory",,,,
+604,"Ostatní ventilátory",,,,
+605,"Ochlazovače vzduchu",,,,
+606,"Akumulátorové vysavače",,,,
+607,"Tyčové vysavače",,,,
+608,"Příslušenství k robot. vysavačům",,,,
+609,"Sáčkové vysavače",,,,
+610,"Bezsáčkové vysavače",,,,
+611,"Průmyslové vysavače",,,,
+612,"Víceúčelové vysavače",,,,
+613,"Vysavače do auta",,,,
+614,"Vysavače na okna",,,,
+615,"Příslušenství k vysavačům",,,,
+616,Tepovače,,,,
+617,Zametače,,,,
+618,"Napařovací žehličky",,,,
+619,"Žehličky s parním generátorem",,,,
+621,"Cestovní žehličky",,,,
+622,"Žehlící prkna",,,,
+623,"Příslušenství k žehličkám",,,,
+624,"Šicí stroje",,,,
+625,"Pánské kola",,,,
+626,"Dámská kola",,,,
+627,"Dětské kola",,,,
+628,Koloběžky,,,,
+629,Helmy,,,,
+630,Cyklodoplňky,1132,"Typ cyklodoplňku",true,OR
+631,"Komponenty na kolo",,,,
+632,"Zahradní tampolíny",,,,
+633,"Zahradní houpačky",,,,
+634,"Dětské hřiště",,,,
+635,"Nafukovací hrady",,,,
+636,Skluzavky,,,,
+637,"Doplňky do vody",,,,
+638,"Doplňky na sníh",,,,
+639,Elektrokola,,,,
+640,"Příslušenství k elektrokolům",,,,
+641,Elektrokoloběžky,,,,
+642,"Příslušenství k elektrokoloběžkám",,,,
+643,Hoverboardy,,,,
+644,"Příslušenství k hoverboardům",,,,
+645,"Turistické navigace",,,,
+646,Stany,1159,Produkt,true,OR
+647,Spacáky,1165,"Izolační náplň",true,OR
+648,"Kempingový nábytek",,,,
+649,"Doplňky ke kempování",,,,
+650,"Trekové hole",1168,Produkt,true,OR
+651,Karimatky,1166,Produkt,true,OR
+652,Batohy,1167,Produkt,true,OR
+653,Tašky,,,,
+654,"Kabinová zavazadla",,,,
+655,Kufry,,,,
+656,Peněženky,,,,
+657,"Školní batohy",,,,
+658,"Kufry na kolečkách",,,,
+659,"Doplňky ke kufrům",,,,
+660,"Dětské elektrické kartáčky",,,,
+661,"Náhradní hlavice",1144,"Typ náhradní hlavice",true,OR
+662,"Ústní sprchy",,,,
+663,"Příslušenství ke kartáčkům",,,,
+664,"Zubní centra",,,,
+665,Ostatní,,,,
+666,"IPL epilátory",,,,
+667,Epilátory,,,,
+668,"Planžetové holící strojky",,,,
+669,"Frézkové holící strojky",,,,
+670,"Příslušenství k holícím strojkům",,,,
+671,"Zastřihávače vousů",,,,
+672,"Zastřihávače vlasů",,,,
+673,"Zastřihávače chloupků",,,,
+674,"Příslušenství k zastřihovačům",,,,
+675,"Digitální váhy",,,,
+676,"Diagnostické váhy",,,,
+677,"Chytré váhy",,,,
+678,"Dětské chůvičky",,,,
+679,"Potřeby pro kojení",,,,
+680,"Ostatní kojenecé potřeby",,,,
+681,"Kosmetické přístroje",,,,
+682,"Masážní přístroje",,,,
+683,"Manikůra a pedikůra",,,,
+684,"Ostatní péče o tělo",,,,
+685,"Žehličky na vlasy",,,,
+686,Kulmofény,,,,
+687,Kulmy,,,,
+688,"Žehlící kartáče",,,,
+689,Krepovačky,,,,
+690,Natáčky,,,,
+691,"Pažní tlakoměry",,,,
+692,"Zápěstní tlakoměry",,,,
+693,"Digitální teploměry",,,,
+694,"Bezkontaktní teploměry",,,,
+695,"Diagnostické testy",,,,
+696,Glukometry,,,,
+697,Oxymetry,,,,
+698,Inhalátory,,,,
+699,"Dioptrické pomůcky",,,,
+700,Žebříky,1128,"Typ žebříku",true,OR
+701,"Mini trouby",,,,
+702,Fény,,,,
+703,"Lapače hmyzu",,,,
+704,"Pomocníci do kuchyně",,,,
+705,"Ostatní zdravotnické pomůcky",,,,
+706,"Vyhřívané dečky",,,,
+707,"Čistící prostředky",,,,
+708,"Videotelefony a kukátka",,,,
+709,Termostaty,,,,
+710,Elektrocentrály,1147,"Typ zdroje",true,OR
+711,"Prodlužovací přívody",,,,
+712,"Měřící přístroje",1129,"Typ měřícího přístroje",true,OR
+713,"Kuchyňské náčiní",,,,
+714,Trička,,,,
+715,"Sportovní dresy",,,,
+716,Kraťasy,,,,
+717,Kalhoty,,,,
+718,Mikiny,,,,
+719,Svetry,,,,
+720,Nátělníky,,,,
+721,Čepice,,,,
+722,Bundy,,,,
+723,Kabáty,,,,
+724,"Spodní prádlo",,,,
+725,Ponožky,,,,
+726,Rukavice,,,,
+727,Obuv,,,,
+728,Doplňky,,,,
+729,Košile,,,,
+730,Halenky,,,,
+731,Sukně,,,,
+732,"Ostatní oblečení",,,,
+734,"Notesy a bloky",,,,
+735,"Psací potřeby",,,,
+736,"Halové sporty",,,,
+737,"Venkovní sporty",,,,
+738,Fitness,,,,
+739,Plavky,,,,
+740,"Dětské soupravy",,,,
+741,"Tepláky a soupravy",,,,
+742,Puzzle,,,,
+743,"Dřevěné modely",,,,
+744,"Společenské a deskové hry",,,,
+745,"Šlapadla a odstrkovadla",,,,
+746,"RC modely",,,,
+747,Zvířátka,,,,
+748,Figurky,,,,
+749,Panenky,,,,
+750,"Ostatní hračky",,,,
+751,Kuchyňky,,,,
+752,"Plyšové hračky",,,,
+753,Stavebnice,,,,
+754,"Hudební nástroje",,,,
+755,Příslušenství,,,,
+756,"Ochranné pomůcky",,,,
+757,Dezinfekce,,,,
+759,"Láhve a kelímky",1169,Produkt,true,OR
+760,Vaření,1170,Produkt,true,OR
+761,Světla,1171,Produkt,true,OR
+762,Bezpečnost,1172,Produkt,true,OR
+763,"Nábytek do interiéru",,,,
+764,"Nábytek do exteriéru",,,,
+765,"Filtrační konvice",,,,
+766,"Hardware peněženka",,,,
+767,"Selfie tyče",1315,Délka,true,OR
